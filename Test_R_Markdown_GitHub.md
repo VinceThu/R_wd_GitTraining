@@ -23,4 +23,4 @@ summary(cars)
 with(data = cars, plot(speed, dist))
 ```
 
-![](Test_R_Markdown_GitHub_files/figure-gfm/unnamed-chunk-1-1.png)<!-- -->
+![](Test_R_Markdown_GitHub_files/figure-gfm/new_plot-1.png)<!-- -->

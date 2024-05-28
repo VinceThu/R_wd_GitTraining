@@ -7,7 +7,7 @@ output: github_document
 
 I wrote a single sentence.    
 
-```{r new plot, eval=TRUE}
+```{r new_plot, eval=TRUE}
 ## insert your brilliant WORKING code here
 data("cars")
 summary(cars)
