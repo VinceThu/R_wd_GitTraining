@@ -2,14 +2,14 @@
 #' title: "foo"
 #' author: "V. Thuillier"
 #' date: "2024-05-28"
-#' output: html_document
+#' output: github_document
 #' ---
 
 #+ r setup, include=FALSE
 knitr::opts_chunk$set(echo = TRUE)
 
 
-## R Markdown
+#' ## R Markdown
 
 #' This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
 
@@ -19,7 +19,7 @@ knitr::opts_chunk$set(echo = TRUE)
 summary(cars)
 
 
-## Including Plots
+#' ## Including Plots
 
 #' You can also embed plots, for example:
 
