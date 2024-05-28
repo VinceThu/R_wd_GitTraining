@@ -45,4 +45,10 @@ usethis::create_from_github(
   destdir = "C:/Users/fr59847/OneDrive - Sanofi/Documents"
 )
 
+#/*****************************************************************************
+# _ https://happygitwithr.com/existing-github-last  -----
+#******************************************************************************/  
+
+usethis::use_github()
+
   
